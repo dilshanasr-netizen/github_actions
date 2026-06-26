@@ -18,3 +18,4 @@ def test_coucou():
   # Function test if the output return 'hello'
     output='hello'
     assert output == 'hello'
+
